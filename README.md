@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Anne Nicole A. Sombrero! 👋  
 
-<!--
-**Corsheart032720/Corsheart032720** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a fresh graduate in Information Technology with a passion for learning and growing in system administration, database management, and cybersecurity.  
 
-Here are some ideas to get you started:
+## About Me  
+- 🌱 Currently exploring tools and technologies to enhance my skills.  
+- 💻 Interested in hands-on projects to gain real-world experience.  
+- ✨ Always eager to learn and take on new challenges.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills  
+- Basic IT knowledge: System administration, SQL, and data analysis.  
+- Tools: Microsoft Office, basic Linux, and networking fundamentals.  
+
+## Contact Me  
+- 📧 Email: [ansombrero@my.cspc.edu.ph](mailto:ansombrero@my.cspc.edu.ph)] 
+- 📱 Phone: [+63 967-049-2075]
+
+Let’s connect and collaborate! 🚀  
