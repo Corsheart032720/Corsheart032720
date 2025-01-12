@@ -68,7 +68,6 @@ A mobile application developed to enhance the shopping experience with intuitive
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anne-nicole-sombrero-b08952343/)  
 [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01b7b1b1e6e36514c3)
 
-
 ---
 
 ## ✨ **WHY ME?**  
@@ -76,3 +75,10 @@ I am passionate about technology and thrive on learning new things every day. Wh
 
 💬 *Feel free to reach out! Let’s collaborate and make something amazing together.*  
 🚀 *Thank you for visiting my profile – the best is yet to come!*  
+
+---
+
+## 📊 **Profile Views**  
+[![GitHub Profile Views](https://komarev.com/ghpvc/?username=Corsheart032720&color=ff69b4&style=circular)](https://github.com/Corsheart032720)
+
+
