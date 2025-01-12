@@ -44,24 +44,6 @@ A mobile app designed for seamless e-commerce functionality with an intuitive UI
 
 ---
 
-## 🏆 CERTIFICATIONS  
-- **Career Essentials in System Administration Professional Certificate** – Microsoft and LinkedIn (2025)  
-- **Career Essentials in Data Analysis Professional Certificate** – Microsoft and LinkedIn (2025)  
-- **Artificial Intelligence in Data Analytics** – DICT MIMAROPA (2025)  
-- **Cyber Security Awareness Month** – DICT Region IVB (2024)  
-
----
-
-## 🏅 EVENTS & WEBINARS  
-- **12th Bicol Youth Congress in Information Technology**  
-  "Infinite Loops: Exploring Endless Possibilities of Technology" – April 2024  
-- **7th Bicol ICT Research Colloquium**  
-  "Bridging Disciplines: Innovation and Collaborations in Computer Allied Courses" – February 2024  
-- **11th Bicol Youth Congress in Information Technology**  
-  "Metaverse: Transcending Future to Digital Reality" – April 2023  
-
----
-
 ## 🌐 SOCIALS  
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com)  
