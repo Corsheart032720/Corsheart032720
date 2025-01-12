@@ -3,7 +3,7 @@ Hello! I am a passionate **4th-year BSIT student** specializing in **IT Support*
 
 ---
 
-## 💻 TECHNICAL FUNDAMENTAL SKILLS  
+## 💻 TECHNICAL SKILLS  
 ![HTML](https://img.shields.io/badge/HTML-Intermediate-orange?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS](https://img.shields.io/badge/CSS-Beginner-blue?style=for-the-badge&logo=css3&logoColor=white)  
 ![Python](https://img.shields.io/badge/Python-Beginner-green?style=for-the-badge&logo=python&logoColor=white)  
