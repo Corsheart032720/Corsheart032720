@@ -42,11 +42,11 @@ A capstone project featuring **schedule management**, **attendance validation**,
   - Collaborated with the web developer to ensure accurate and functional database integration.  
   - Provided ideas to enhance the functionality and reliability of the system for a better user experience.  
 
-### 🛍️ **Ecommerce Website (2023)**  
-A responsive and user-friendly e-commerce website designed to provide seamless navigation and interaction for online shoppers.  
+### 🛍️ ** Simple GUI Pizza Ordering System  (2023)**  
+The Simple GUI Pizza Ordering System is a school project demonstrating a Java-based application with an intuitive interface for managing pizza orders. Built with core Java, the system allows users to place orders, customize pizzas with different crusts and toppings, and manage sales efficiently through role-based access.
 
-### 📱 **Ecommerce App (2023)**  
-A mobile application developed to enhance the shopping experience with intuitive UI and integrated payment solutions.  
+### 📱 ** Ecommerce Web and Application (2022-2023)**  
+The Freelance Inworke platform bridges the gap between freelancers and clients through a seamless PHP-based website and a React Native mobile application. Designed for efficiency, security, and usability, it enables real-time communication and synchronization via a robust RESTful API.
 
 ---
 
