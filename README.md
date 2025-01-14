@@ -34,7 +34,7 @@ These are the qualities that make me an adaptable and driven learner:
 ## 🚀 **PROJECTS**  
 
 ### 🔐 **Pi-Lock Automated Door Lock Management System (2024-2025)**  
-A capstone project featuring **schedule management**, **attendance validation**, and **event creation**.  
+A capstone project designed to improve security and access control for the Mac Laboratory at CSPC. The system features RFID-based access, schedule management, attendance tracking, and real-time monitoring to make lab management easier and more secure.
 
 - **Role:** Database Designer  
 - **Contributions:**  
