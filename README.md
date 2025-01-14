@@ -50,7 +50,7 @@ The Freelance Inworke platform bridges the gap between freelancers and clients t
 
 ---
 
-## 📚 **EDUCATION**  
+## 📚 **EDUCATION**
 🎓 **Camarines Sur Polytechnic Colleges** – *Bachelor of Science in Information Technology (2025 - Present)*  
 📈 *GWA: 1.45*  
 
